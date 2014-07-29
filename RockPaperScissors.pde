@@ -1,3 +1,5 @@
+//needs to be opened with azhou16.github.io/RockPaperScissors/, as she is the owner of the repository
+
 /* @pjs preload="rock.jpg"; */
 /* @pjs preload="paper.jpg"; */
 /* @pjs preload="scissors.jpg"; */
